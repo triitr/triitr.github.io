@@ -1,0 +1,90 @@
+
+.tbox1 {
+	width: 300px;
+	float: left;
+	
+	margin-left: 20px;
+	overflow: hidden;
+	border-radius: 2%;
+	box-shadow: 5px 5px 3px #888888;
+}
+
+.tbox2 {
+	width: 300px;
+	float: left;
+	overflow: hidden;
+	border-radius: 2%;
+	box-shadow: 5px 5px 3px #888888;
+}
+
+.tbox3 {
+	width: 300px;
+	float: right;
+	margin-right: 20px;
+	overflow: hidden;
+	border-radius: 2%;
+	box-shadow: 5px 5px 3px #888888;
+}
+
+
+.box-style {
+	background: #FFFFFF;
+	text-align: center;
+}
+
+.box-style01
+{
+}
+
+.box-style02
+{
+}
+
+h2.library {
+	padding: 8px 0px 5px 0px;
+	letter-spacing: 0px;
+	font-size: 22px;
+	font-family: Comfortaa, Calibri;
+	color: #2D2D2D;
+}
+
+p..library {
+	font-family: Calibri;
+	line-height: 20px;
+	margin-top: -10px;
+}
+
+.box-style .imagE {
+	width: 260px;
+	height: 170px;
+	margin-left: -19px;
+	margin-bottom: 1em;
+}
+
+.box-style .imagE img.library {
+	width: inherit;
+	height: inherit;
+}
+
+.box-style .arrow {
+}
+
+.box-style .contenT {
+	overflow: hidden;
+	width: 275px;
+	padding: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.buttoN
+{
+	display: inline-block;
+	margin: 1em 0em;
+	background: #05487F;
+	padding: 0.5em 1.22em;
+	color: #FFFFFF;
+	font-family: Comfortaa, Calibri;
+}
+

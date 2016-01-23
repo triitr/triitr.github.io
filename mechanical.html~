@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+
+
+<head>
+
+
+	<title>teamRoboconIITR</title>
+	<link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Play" />
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Unlock" />
+	<link href='http://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet' type='text/css'>
+	<link href= "jquery-ui.min.css" rel="stylesheet" type="text/css" />
+	<link href= "jquery-ui.structure.min.css" rel="stylesheet" type="text/css" />
+	<link href= "jquery-ui.theme.min.css" rel="stylesheet" type="text/css" />
+	<link href="flynixie.webflow.css" rel="stylesheet" type="text/css" />
+	<link href="style1.css" rel="stylesheet" type="text/css" />
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<script src="jquery-1.11.2.min.js"></script>
+	
+	<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine1_style.css" />
+<script type="text/javascript" src="engine1_jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+	
+</head>
+
+<body id="lib">
+	
+	<section id="logoNavContainer">
+	<div id="logoNav">
+		<a href="index.html" id="logo"></a>
+		<nav id="navBar">
+			<ul id="navigationBar">
+				<li class="link"><a id="aboutLink" class="links" href="#aboutContainer">About</a></li>
+				<li class="link"><a id="r15Link" class="links" href="#r15Container">Robocon 2016</a></li>
+				<li class="link"><a id="gallerLink" class="links" href="#galleryContainer">Gallery</a></li>
+				<li class="link"><a id="libraryLink" class="links" href="#libraryContainer">Library</a></li>
+				<li class="link"><a id="sponsorsLink" class="links" href="#sponsorsContainer">Sponsors</a></li>
+				<li class="link"><a id="contactLink" class="links" href="#contactContainer">Contact</a></li>
+			</ul>
+		</nav>
+	</div>
+	</section>
+	
+	<div id="wrapper">
+ 
+  <div id="sidebar">
+  	<h5>Library</h5>
+    <ul class="sideList">
+    	<li><a class="current" href="mechanical.html">MECHANICAL</a></li>
+    	<li><a href="electronics.html">ELECTRONICS</a></li>
+    	<li><a href="programming.html">PROGRAMMING</a></li>
+    	
+    </ul>
+  </div>
+ 
+  <div id="main">
+   	 <h3>Omni Wheel</h3>
+  <div>
+  	<img class="part_img" alt="Omni Wheel" src="img_mechanical_omniwheel.jpg"/>
+            <p class="part_desc">
+                 Omni wheels or poly wheels, similar to Mecanum wheels, are wheels with small discs around the circumference which are perpendicular to the rolling direction. The effect is that the wheel will roll with full force, but will also slide laterally with great ease, employed in holonomic drive systems.
+            </p>
+  	
+</div>
+  <h3>Planetary Gear Motor</h3>
+  <div>
+	<img class="part_img" alt="Planetary Gear Motor" src="img_mechanical_planetarygearmotor.jpg"/>
+            <p class="part_desc">
+                Compact, and yet extremely powerful, are the units of the 300 Planetary gear motor series. Their planetary drive train makes them the ideal choice for all the severe duty applications where shock loadings and impacts are more the rule than the exception. The product configuration is highly versatile, due to several options as far as the mounting, the gear layout, the output shaft and the motor interface. All the features are available for each of the 18 finely spaced frame sizes, spanning over the 1.000 - Finding the perfect match to any drive problem is therefore more than a wish, it is something users can safely rely on - always.1.400.000 Nm torque range.  
+            </p>	
+</div>
+  <h3>Solenoid Valve</h3>
+  <div>
+  	<img class="part_img" alt="Solenoid Valve" src="img_mechanical_solenoidvalve.gif"/>
+            <p class="part_desc">
+        
+       A solenoid valve is an electromechanically operated valve. The valve is controlled by an electric current through a solenoid: in the case of a two-port valve the flow is switched on or off; in the case of a three-port valve, the outflow is switched between the two outlet ports. Multiple solenoid valves can be placed together on a manifold. Solenoid valves are the most frequently used control elements in fluidics. Their tasks are to shut off, release, dose, distribute or mix fluids. They are found in many application areas. Solenoids offer fast and safe switching, high reliability, long service life, good medium compatibility of the materials used, low control power and compact design.
+            </p>
+  </div>
+  <h3>Pneumatic Actuator</h3>
+  <div>
+  	<img class="part_img" alt="Pneumatic Actuator" src="img_mechanical_pneumatic.jpg"/>
+            <p class="part_desc">
+        
+            A pneumatic actuator converts energy (typically in the form of compressed air) into mechanical motion. The motion can be rotary or linear, depending on the type of actuator. A Pneumatic actuator mainly consists of a piston, a cylinder, and valves or ports. The piston is covered by a diaphragm, or seal, which keeps the air in the upper portion of the cylinder, allowing air pressure to force the diaphragm downward, moving the piston underneath, which in turn moves the valve stem, which is linked to the internal parts of the actuator. Pneumatic actuators may only have one spot for a signal input, top or bottom, depending on action required. Valves require little pressure to operate and usually double or triple the input force. The larger the size of the piston, the larger the output pressure can be. Having a larger piston can also be good if air supply is low, allowing the same forces with less input.
+	           </p>
+  	
+  </div>
+   	 
+   	 
+   	</div>
+   	
+ 
+  
+ 
+</div>
+	
+	<script src="jquery-ui.min.js"></script>
+	<script src="script.js"></script>
+	
+</body>
